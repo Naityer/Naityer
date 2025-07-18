@@ -18,7 +18,7 @@
   <a href="https://github.com/Naityer" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://naityer.notion.site" target="blank">
+  <a href="[https://naityer.notion.site](https://naityer.notion.site/Knowledge-Wiki-DEV-WorkOut-01c21f16a51046b6a354562a7e210a86?source=copy_link)" target="blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a>
 </p>
@@ -54,13 +54,6 @@
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</p>
-
-<h3>⚡ Hardware y Bajo Nivel</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/VHDL-008080?style=for-the-badge" alt="VHDL"/>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-  <img src="https://img.shields.io/badge/Sensors%20%26%20Oscilloscopes-555555?style=for-the-badge" alt="Sensors and Oscilloscopes"/>
 </p>
 
 ---

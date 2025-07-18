@@ -34,23 +34,16 @@
 <h3>🗄️ Bases de Datos</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-  <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
 </p>
 
 <h3>🔬 Machine Learning & AI</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/NLTK-85BE50?style=for-the-badge" alt="NLTK"/>
 </p>
 
 <h3>🛠️ Herramientas y Entornos</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 ---

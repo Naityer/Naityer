@@ -15,10 +15,7 @@
   <a href="mailto:tianduque.tech@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Naityer" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="[https://naityer.notion.site](https://naityer.notion.site/Knowledge-Wiki-DEV-WorkOut-01c21f16a51046b6a354562a7e210a86?source=copy_link)" target="blank">
+  <a href="https://naityer.notion.site/Knowledge-Wiki-DEV-WorkOut-01c21f16a51046b6a354562a7e210a86" target="blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a>
 </p>
